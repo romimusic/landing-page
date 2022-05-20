@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.b3435d6d.css",
+    "main.js": "/landing-page/static/js/main.16410625.js",
+    "static/media/image-header-mobile.jpg": "/landing-page/static/media/image-header-mobile.399f71e732a77d1f56c6.jpg",
+    "index.html": "/landing-page/index.html",
+    "main.b3435d6d.css.map": "/landing-page/static/css/main.b3435d6d.css.map",
+    "main.16410625.js.map": "/landing-page/static/js/main.16410625.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3435d6d.css",
+    "static/js/main.16410625.js"
+  ]
+}
